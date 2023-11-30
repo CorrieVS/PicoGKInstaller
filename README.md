@@ -1,4 +1,6 @@
 # PicoGK Runtime Installer
+This fork of the PicoGKInstaller adds a linux installer for Ubuntu 22.04.
+
 This is the **source code** for the creation of the PicoGK Runtime installers. 
 
 It is hosted at https://github.com/leap71/PicoGKInstaller.

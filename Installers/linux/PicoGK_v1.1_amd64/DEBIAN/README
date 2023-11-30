@@ -1,0 +1,12 @@
+This is not an official PicoGK installer.
+It is an experimental linux installer that has been tested on Ubuntu 22.04 LTS.
+To install, open a terminal window and navigate to the directory containing PicoGK_v1.1_amd64.deb.
+Then do:
+
+sudo apt update
+sudo apt install ./PicoGK_v1.1_amd64.deb
+
+To uninstall, do
+
+sudo apt purge picogk
+sudo apt autoremove

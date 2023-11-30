@@ -1,0 +1,8 @@
+Package: PicoGK
+Version: 1.1.0
+Architecture: amd64
+Maintainer: Corrie Van Sice <CorrieVS@users.noreply.github.com>
+Depends: liblzma5 (>= 5.2), libzstd1 (>=1.4.8), dotnet-sdk-7.0, libblosc1 (>=1.21), libtbb12 (>=2021.5), libboost-iostreams1.74.0, libx11-6, libglfw3 (>=3.3)
+Description: Unofficial PicoGK for Linux
+ PicoGK ("peacock") is a compact, robust, and fast geometry kernel for Computational Engineering developed by Lin Kayser.
+ This package was integrated in linux by Corrie Van Sice and is not maintained by Leap 71. For more information about PicoGK, please visit https://PicoGK.org
